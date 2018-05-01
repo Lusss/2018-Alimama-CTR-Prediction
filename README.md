@@ -1,2 +1,2 @@
-# Alimama
-MSBD5003 Group Porject
+# Alimama CTR Prediction baseline
+Group Porject
